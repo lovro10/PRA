@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/WebApi/AccountConfirmation.eb27o3mrui.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AccountConfirmation.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eb27o3mrui"},{"Name":"integrity","Value":"sha256-eiue\u002B3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ="},{"Name":"label","Value":"_content/WebApi/AccountConfirmation.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"341"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022eiue\u002B3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 21:19:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApi/AccountConfirmation.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AccountConfirmation.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eiue\u002B3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"341"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022eiue\u002B3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 21:19:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
