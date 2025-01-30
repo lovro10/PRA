@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "AccountConfirmation.eb27o3mrui.html",
+      "AssetFile": "AccountConfirmation.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiue+3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 02:00:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eb27o3mrui"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eiue+3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ="
+        },
+        {
+          "Name": "label",
+          "Value": "AccountConfirmation.html"
+        }
+      ]
+    },
+    {
+      "Route": "AccountConfirmation.html",
+      "AssetFile": "AccountConfirmation.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiue+3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 02:00:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eiue+3qO5KFcukIvwdyX18BMGQb/kAtw7W/U3up6cHQ="
+        }
+      ]
+    }
+  ]
+}
