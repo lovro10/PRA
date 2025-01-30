@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lovro\\Desktop\\TestPRA\\",
+  "WorkspaceRootPath": "C:\\Users\\bruno\\Desktop\\PRA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F09D48F3-3802-4826-B193-5AEE4C033E4E}|WebApi\\WebApi.csproj|c:\\users\\lovro\\desktop\\testpra\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09D48F3-3802-4826-B193-5AEE4C033E4E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09D48F3-3802-4826-B193-5AEE4C033E4E}|WebApi\\WebApi.csproj|c:\\users\\lovro\\desktop\\testpra\\webapi\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09D48F3-3802-4826-B193-5AEE4C033E4E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09D48F3-3802-4826-B193-5AEE4C033E4E}|WebApi\\WebApi.csproj|c:\\users\\bruno\\desktop\\pra\\webapi\\controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D48F3-3802-4826-B193-5AEE4C033E4E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1016,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:58:08.355Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GroupController.cs",
-              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\Controllers\\GroupController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\GroupController.cs",
-              "ToolTip": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\Controllers\\GroupController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\GroupController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEwAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FriendController.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\PRA\\WebApi\\Controllers\\FriendController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\FriendController.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\PRA\\WebApi\\Controllers\\FriendController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\FriendController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwGAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:57:24.755Z",
+              "WhenOpened": "2025-01-30T22:11:05.843Z",
               "EditorCaption": ""
             }
           ]

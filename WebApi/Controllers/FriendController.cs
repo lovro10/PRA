@@ -92,14 +92,16 @@ namespace WebApi.Controllers
 
         // PUT api/<FriendController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public ActionResult Put(int id, [FromBody] string value)
         {
+            return Ok();
         }
 
         // DELETE api/<FriendController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public ActionResult Delete(int id)
         {
+            return Ok();
         }
     }
 }
