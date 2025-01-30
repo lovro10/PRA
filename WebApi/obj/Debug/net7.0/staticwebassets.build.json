@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IlcalgPnd1lCot4Q7b+yv7BX92NTHymQpajXOyhwzHc=",
+  "Hash": "zwLVatAKQnPY9PpAJPLnS+5+kIKF3DXWhQ6cQ2X78/g=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApi\\wwwroot",
       "Source": "WebApi",
-      "ContentRoot": "C:\\Users\\Paco\\Desktop\\PRA\\WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Paco\\Desktop\\PRA\\WebApi\\wwwroot\\AccountConfirmation.html",
+      "Identity": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\wwwroot\\AccountConfirmation.html",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Paco\\Desktop\\PRA\\WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "RelativePath": "AccountConfirmation#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -41,7 +41,7 @@
   "Endpoints": [
     {
       "Route": "AccountConfirmation.eb27o3mrui.html",
-      "AssetFile": "C:\\Users\\Paco\\Desktop\\PRA\\WebApi\\wwwroot\\AccountConfirmation.html",
+      "AssetFile": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\wwwroot\\AccountConfirmation.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 21:19:19 GMT"
+          "Value": "Tue, 28 Jan 2025 02:00:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86,7 +86,7 @@
     },
     {
       "Route": "AccountConfirmation.html",
-      "AssetFile": "C:\\Users\\Paco\\Desktop\\PRA\\WebApi\\wwwroot\\AccountConfirmation.html",
+      "AssetFile": "C:\\Users\\Lovro\\Desktop\\TestPRA\\WebApi\\wwwroot\\AccountConfirmation.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -107,7 +107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 21:19:19 GMT"
+          "Value": "Tue, 28 Jan 2025 02:00:46 GMT"
         },
         {
           "Name": "Cache-Control",
